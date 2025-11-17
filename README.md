@@ -33,5 +33,3 @@ These KPIs give a clear overview of campaign reach, engagement, and conversion p
 5.  Monthly impressions remain consistent in the 91M–94M range, indicating steady campaign delivery and stable audience reach throughout the year.
 
 
-
-UI/UX in Excel (card layout, color theme, slicer formatting)
